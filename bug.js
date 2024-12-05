@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the Android emulator wouldn't start even after following all the setup instructions correctly.  The error message in the terminal was vague, simply stating 'Emulator failed to start'. I had already ensured that the Android SDK and NDK were correctly installed and configured, and that the necessary environment variables were set.
